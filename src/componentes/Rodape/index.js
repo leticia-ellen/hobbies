@@ -23,11 +23,11 @@ const Rodape = () => {
         </ul>
        </section>
        <section>
-       <img src="/imagens/logo.png" alt="" />
+       <img className='logo' src="/imagens/logo.png" alt="" />
        </section>
        <section>
         <p>
-            Desenvolvido por Alura.
+            Desenvolvido por Letícia Ellen.
         </p>
        </section>
     </footer>)

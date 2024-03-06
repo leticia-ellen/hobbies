@@ -1,5 +1,6 @@
 .colaborador {
     width: 280px;
+    position: relative;
 }
 
 .colaborador .cabecalho {
@@ -22,7 +23,7 @@
 }
 
 .colaborador .rodape h4 {
-    color: #6278F7;
+    color: #664478;
     font-size: 18px;
     line-height: 22px;
     font-weight: bold;
@@ -34,4 +35,15 @@
     line-height: 22px;
     color: #212121;
     padding: 0 16px;
+}
+
+.deletar {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    cursor: pointer;
+}
+
+.favoritar {
+    margin-top: 23px;
 }
