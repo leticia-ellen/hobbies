@@ -1,22 +1,21 @@
-<h1>Portfólio<h1/>
-</br>
-Tecnologias   |    Projeto   |    Layout   
-</br>
-</br>
-🚀 Tecnologias
-  </br>
+# 🧩 Hobbies 
+
+Site para a organização e criação de grupos de pessoas baseados em seus principais hobbies
+
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-</br>
-ReactJS
-Vite.JS
-TypeScript
-Styled Components
-Git e Github
-Figma
-  </br>
-💻 Projeto
-  </br>
-Criação de um novo portfólio pessoal no intuito de trazer uma nova cara para a versão antiga do meu portfólio, na qual foi usado as tecnologias HTML, CSS e JavaScript para ReactJS com Vite.JS, TypeScript e Styled Components e melhoria na exibição de meus serviços, projetos e habilidades.
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Css"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git e GitHurb"/>
 
 
-Desenvolvido por Letícia Ellen.
+## 💻 Projeto
+
+O Site foi feito para a organização de times, onde pessoas com hobbies em comum podem se encontrar, foi feito um formulário para cadastrar pessoas novas e 
+adicionar cada uma em seu respectivo time, assim como um formulário para cadastrar filmes novos, por fim foi implementado a função de deletar ou favoritar pessoas já cadastradas.
+
+
+### Desenvolvido por Letícia Ellen.
